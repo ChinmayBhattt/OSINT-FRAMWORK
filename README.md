@@ -3,7 +3,7 @@
 https://osintframework.com
 
 ## What it is
-OSINT Framework is a curated collection of open-source intelligence resources focused on gathering information from free tools and services.  
+OSINT Framework is a curated collection of open-source intelligence resources focused on gathering information from free tools and services.
 Some resources may require registration or offer paid tiers, but they generally provide at least some no-cost functionality.
 
 ## Purpose
