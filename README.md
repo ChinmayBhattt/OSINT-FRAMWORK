@@ -1,4 +1,4 @@
-# OSINT-FRAMWORK
+# OSINT Framework (Repository: OSINT-FRAMWORK)
 
 An Open-Source Intelligence (OSINT) framework workspace intended to organize reconnaissance workflows, intelligence collection, and reporting in one place.
 
