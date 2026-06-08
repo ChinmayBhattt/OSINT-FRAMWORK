@@ -1,4 +1,4 @@
 # OSINT-FRAMWORK
 
-https://osintframework.com
-https://ahmia.fi
+- https://osintframework.com
+- https://ahmia.fi
